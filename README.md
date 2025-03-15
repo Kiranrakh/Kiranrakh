@@ -28,6 +28,17 @@
 
 ---
 
+## 🛠️ Technologies & Tools:
+### 🚀 Cloud & DevOps:
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-IAC-purple?style=flat&logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=flat&logo=jenkins)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=flat&logo=ansible)
+
+---
+
 ## 📂 My GitHub Projects:
 🔹 **[Flask-Based Learning Portal](https://github.com/KiranRakh/flask-learning-portal)**  
    - 🌟 **Tech Stack:** Flask, Python, PostgreSQL, Docker, Kubernetes  
@@ -47,21 +58,10 @@
 
 ---
 
-## 🛠️ Technologies & Tools:
-### 🚀 Cloud & DevOps:
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=flat&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-IAC-purple?style=flat&logo=terraform)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=flat&logo=jenkins)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=flat&logo=ansible)
-
----
-
 ## 📫 Let's Connect:
 💼 **LinkedIn:** [Kiran Rakh](https://www.linkedin.com/in/kiran-rakh-b644b6248)  
 📂 **GitHub:** [KiranRakh](https://github.com/KiranRakh)  
 📧 **Email:** [kiranrakh155@gmail.com](mailto:kiranrakh155@gmail.com)  
 
 🔹 **Let’s build, automate, and innovate together!** 🚀
+
