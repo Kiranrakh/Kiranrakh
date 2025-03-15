@@ -40,20 +40,6 @@
   <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible" />
 </p>
 
-### 💻 Programming & Scripting:
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-Programming-red?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-gray?style=for-the-badge&logo=gnu-bash" />
-</p>
-
-### 🗄️ Databases & OS:
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Linux-OS-orange?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-OS-purple?style=for-the-badge&logo=ubuntu" />
-</p>
 
 ---
 
