@@ -6,13 +6,13 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/kiran-rakh-b644b6248">
-    <img src="https://img.shields.io/badge/LinkedIn-KiranRakh-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-KiranRakh-blue?style=for-the-badge&logo=linkedin" />
  </a>
  <a href="mailto:kiranrakh155@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
  </a>
  <a href="https://github.com/KiranRakh">
-    <img src="https://img.shields.io/badge/GitHub-KiranRakh-black?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-KiranRakh-black?style=for-the-badge&logo=github" />
  </a>
 </p>
 
@@ -30,12 +30,14 @@
 
 ## 🛠️ Technologies & Tools:
 ### 🚀 Cloud & DevOps:
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-IAC-purple?style=flat&logo=terraform)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=flat&logo=jenkins)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=flat&logo=ansible)
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes" />
+<img src="https://img.shields.io/badge/Terraform-IAC-purple?style=for-the-badge&logo=terraform" />
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins" />
+<img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible" />
+</p>
 
 ---
 
@@ -64,4 +66,3 @@
 📧 **Email:** [kiranrakh155@gmail.com](mailto:kiranrakh155@gmail.com)  
 
 🔹 **Let’s build, automate, and innovate together!** 🚀
-
