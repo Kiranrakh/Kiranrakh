@@ -1,7 +1,7 @@
 <h1 align="center"> Hey Everyone 👋, I'm Kiran Rakh </h1>
 
 <p align="center">
-🚀 <b>AWS Cloud & DevOps Engineer | Automating Cloud Solutions | Kubernetes | CI/CD | Docker | Jenkins</b> 🌍
+🚀 <b>Cloud & DevOps Engineer | Automating Cloud Solutions | Kubernetes | CI/CD | Docker | Jenkins</b> 🌍
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 ---
 
 ## 🚀 About Me:
-🎯 **AWS Certified Cloud Engineer** with expertise in cloud computing, containerization, automation, and CI/CD pipelines. Passionate about DevOps methodologies and infrastructure automation.  
+🎯 Passionate about **Cloud Computing, DevOps, and Automation**. I enjoy working with cloud technologies, container orchestration, and CI/CD pipelines to streamline deployments and enhance infrastructure efficiency.  
 
 🔹 **Location:** Pune, India  
-🔹 **Current Role:** AWS & DevOps Engineer (Seeking full-time opportunities)  
+🔹 **Current Role:** DevOps Engineer (Seeking full-time opportunities)  
 🔹 **Education:** B.E. in Electronics & Telecommunication, JSPM’s Imperial College of Engineering and Research (2020-2024)  
 🔹 **Experience:** 6-month AWS DevOps Internship  
 
@@ -56,25 +56,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-IAC-purple?style=flat&logo=terraform)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=flat&logo=jenkins)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=flat&logo=ansible)
-
-### 📌 Programming & Scripting:
-![Python](https://img.shields.io/badge/Python-Programming-blue?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-Programming-red?style=flat&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-Programming-blue?style=flat&logo=cplusplus)
-![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=flat&logo=gnu-bash)
-
-### 📂 Databases & OS:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=flat&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-OS-yellow?style=flat&logo=linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-OS-orange?style=flat&logo=ubuntu)
-
----
-
-## 🏆 Certifications:
-🎖️ **AWS Certified Solutions Architect – Associate**  
-🎖️ **Docker Certified Associate**  
-🎖️ **Kubernetes Certified Administrator (CKA)**  
 
 ---
 
