@@ -40,33 +40,17 @@
   <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible" />
 </p>
 
-
 ---
 
-## 📂 My GitHub Projects:
+## 🌟 References & Mentors:
 
-### 🚀 Flask-Based Learning Portal  
-🔗 **[GitHub Repo](https://github.com/KiranRakh/flask-learning-portal)**  
-📌 **Tech Stack:** Flask, Python, PostgreSQL, Docker, Kubernetes  
-✅ **Features:** User authentication, course & notes management, CRUD operations  
-🏗️ **Deployed using:** AWS EC2 + Docker + Nginx  
+I have learned and gained knowledge from amazing mentors and resources. Here are some of the people and platforms that have inspired me:
 
----
-
-### 🌍 Three-Tier AWS Web App  
-🔗 **[GitHub Repo](https://github.com/KiranRakh/aws-three-tier-app)**  
-🚀 **Cloud Setup:** AWS (VPC, ALB, EC2, RDS)  
-📌 **Infrastructure as Code:** Terraform  
-📊 **Monitoring:** Prometheus + Grafana  
-
----
-
-### 🔄 CI/CD Pipeline for AWS Deployment  
-🔗 **[GitHub Repo](https://github.com/KiranRakh/aws-ci-cd-pipeline)**  
-🛠️ **Tools:** Jenkins, GitHub Actions, Docker, Kubernetes  
-📌 **Automated Testing & Deployment**  
-
-📌 **More projects on my GitHub:** [Click Here](https://github.com/KiranRakh)  
+- **Vimal Daga** - [LinkedIn](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) - LinuxWorld Informatics Pvt Ltd  
+- **Abhishek Veeramalla** - [YouTube Channel](https://www.youtube.com/@AbhishekVeeramalla)  
+- **Train With Shubham** - [YouTube Channel](https://www.youtube.com/@TrainWithShubham)  
+- **Gourav Sharma** - [YouTube Channel](https://www.youtube.com/@GouravSharma)  
+- **M Prashant** - [YouTube Channel](https://www.youtube.com/@MPrashant)  
 
 ---
 
