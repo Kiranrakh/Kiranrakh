@@ -1,85 +1,82 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Kiran%20Rakh%20%F0%9F%9A%80&fontSize=40&fontColor=ffffff"/>
+
 <h1 align="center">🌐 Hey there! I'm <span style="color:#38bdf8;">Kiran Rakh</span></h1>
 
-<p align="center">
-<b>Cloud & DevOps Engineer | CI/CD Pipelines | Kubernetes | Docker | Terraform | AWS</b>
-</p>
+<h2>Cloud & DevOps Engineer | CI/CD | Kubernetes | Docker | AWS</h2>
 
-<p align="center">
-  <a href="https://kiranrakh.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-kiranrakh.netlify.app-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kiran-rakh-b644b6248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kiran Rakh-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kiranrakh155@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/KiranRakh">
-    <img src="https://img.shields.io/badge/GitHub-KiranRakh-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<a href="https://kiranrakh.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-kiranrakh.netlify.app-0ea5e9?style=for-the-badge&logo=netlify" />
+</a>
+<a href="https://www.linkedin.com/in/kiran-rakh-b644b6248">
+  <img src="https://img.shields.io/badge/LinkedIn-Kiran_Rakh-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:kiranrakh155@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://github.com/KiranRakh">
+  <img src="https://img.shields.io/badge/GitHub-Kiran_Rakh-black?style=for-the-badge&logo=github" />
+</a>
 
----
+<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&width=650&lines=🚀+DevOps+Intern+at+FusionPact;💡+Cloud+Native+Learner+%7C+IaC+Practitioner;⚙️+CI/CD+Pipeline+Engineer;🐳+Kubernetes+%7C+Docker+%7C+AWS+Specialist;🔥+Automating+Infrastructure+End-to-End" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&width=800&lines=DevOps+Intern+at+FusionPact;Cloud+Native+Engineer;CI%2FCD+Pipeline+Expert;IaC+%7C+Terraform+%7C+Ansible;AWS+%7C+Jenkins+%7C+Kubernetes+%7C+Docker;CloudOps+%7C+DevSecOps+%7C+Platform+Engineering+%7C+SRE" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-Hi, I’m **Kiran Rakh**, a Cloud & DevOps Engineer from Pune, India 🌍. I’m passionate about automating infrastructure, orchestrating containers, and building modern deployment pipelines.
+Hi there! I'm **Kiran Rakh**, a passionate Cloud & DevOps Engineer from Pune, India 🇮🇳.
 
-🎓 **Education:** B.E. in E&TC, JSPM’s Imperial College of Engineering and Research (2020–2024)  
-🔧 **Current Roles:**
-- **DevOps Intern @ [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)**  
-- **DevOps Trainee @ [LinuxWorld Informatics](https://www.linkedin.com/in/vimaldaga)**  
-💼 **Goal:** To deliver real-world scalable DevOps solutions through hands-on innovation.
+- 🎓 Final year B.E. (E&TC) at JSPM’s Imperial College of Engineering and Research  
+- 💼 <img src="https://img.icons8.com/color/20/000000/company.png"/> **DevOps Intern @ [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)** — Working on cloud-native infrastructure automation, CI/CD integration, and observability  
+- 🌐 <img src="https://img.icons8.com/color/20/000000/linux.png"/> **DevOps Trainee @ [LinuxWorld Informatics](https://www.linkedin.com/in/vimaldaga)** — Learning advanced container orchestration and GitOps  
+- ⚡ Hands-on with real-world cloud projects, automation, and pipeline delivery
 
 ---
 
-## 🛠️ DevOps Toolbox
+## ⚙️ DevOps Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform" />
-  <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible" />
-  <img src="https://img.shields.io/badge/Jenkins-CI/CD-yellow?style=for-the-badge&logo=jenkins" />
-  <img src="https://img.shields.io/badge/Git-Version_Control-critical?style=for-the-badge&logo=git" />
+  <b>☁️ Cloud & Orchestration:</b><br>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" />
+  <br><br>
+  <b>⚙️ CI/CD & IaC:</b><br>
+  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" />
 </p>
 
 ---
 
-## 📌 Real-Time Projects
+## 📊 Featured Projects
 
-- 🔹 **CI/CD with Jenkins + Docker + Ansible on AWS**  
-- 🔹 **Kubernetes Cluster Setup with StatefulSets & Helm**  
-- 🔹 **Flask + MySQL App with Prometheus-Grafana Monitoring**  
-- 🔹 **Terraform Infrastructure Deployment for Multi-Tier Apps**  
-
-👉 All projects are available in my GitHub repositories and featured on my [portfolio](https://kiranrakh.netlify.app).
-
----
-
-## 🙌 Mentors & Inspirations
-
-- 👨‍🏫 **Vimal Daga** — [LinuxWorld Informatics](https://www.linkedin.com/in/vimaldaga)  
-- 💼 **FusionPact Team** — [FusionPact LinkedIn](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)  
-- 🎥 **Abhishek Veeramalla**, **Train With Shubham**, **Gourav Sharma**, **M Prashant** — YouTube Learning Resources
+| Project | Description |
+|--------|-------------|
+| [**CI/CD on AWS**](https://github.com/KiranRakh/flask-cicd-aws) | Automated Flask app deployment using Jenkins, Ansible, Docker, and EC2 |
+| [**Kubernetes with Helm**](https://github.com/KiranRakh/k8s-helm-project) | Orchestrated multi-container setup with Helm, StatefulSets, and secrets |
+| [**Monitoring Stack**](https://github.com/KiranRakh/monitoring-prometheus-grafana) | Prometheus + Grafana with Docker metrics and app insights |
+| [**Terraform Infra Provisioning**](https://github.com/KiranRakh/aws-terraform-iac) | Complete AWS VPC + EC2 setup via IaC |
 
 ---
 
-## 📬 Let’s Connect
+## 👨‍💼 Mentors & Inspirations
+
+- 👨‍💼 [Vimal Daga](https://www.linkedin.com/in/vimaldaga) — LinuxWorld  
+- 💼 [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)  
+- 🎥 YouTube Gurus: Abhishek Veeramalla, Train With Shubham, Gourav Sharma, M Prashant  
+
+---
+
+## 📢 Let’s Connect
 
 <p align="center">
   <a href="https://kiranrakh.netlify.app">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-kiranrakh.netlify.app-0ea5e9?style=for-the-badge&logo=netlify" />
+    <img src="https://img.shields.io/badge/Portfolio-kiranrakh.netlify.app-0ea5e9?style=for-the-badge&logo=netlify" />
   </a>
   <a href="https://linkedin.com/in/kiran-rakh-b644b6248">
-    <img src="https://img.shields.io/badge/LinkedIn-Kiran Rakh-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kiran_Rakh-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kiranrakh155@gmail.com">
     <img src="https://img.shields.io/badge/Email-kiranrakh155@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -88,8 +85,10 @@ Hi, I’m **Kiran Rakh**, a Cloud & DevOps Engineer from Pune, India 🌍. I’m
 
 ---
 
-## 💡 Final Thought
+<div align="center">
 
-> **DevOps is more than tools — it's a culture of speed, quality, and automation.**  
-> Let’s build the future of infrastructure together. 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=150&section=footer"/>
 
+<h3 align="center"><strong>✨ DevOps isn't just automation. It's mindset, collaboration, and scaling innovation. ✨<br>🚀 Let's innovate and build the future together! 🚀</strong></h3>
+
+</div>
