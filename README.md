@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#f0f9ff; padding:20px;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=250&section=header&text=Kiran%20Rakh%20%F0%9F%9A%80&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Kiran%20Rakh&fontSize=30&fontColor=ffffff"/>
 
 <h1 align="center">🌐 Hey there! I'm <span style="color:#38bdf8;">Kiran Rakh</span></h1>
 
@@ -96,7 +96,7 @@ I’m driven by a love for automation, scalability, and innovation. I enjoy turn
 
 <div align="center" style="background-color:#f0f9ff; padding:20px;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=160&section=footer"/>
 
 <h3 align="center"><strong>✨ DevOps isn't just automation. It's mindset, collaboration, and scaling innovation. ✨<br>🚀 Let's innovate and build the future together! 🚀</strong></h3>
 
