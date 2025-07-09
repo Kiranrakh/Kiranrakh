@@ -29,12 +29,21 @@
 
 ## ✨ About Me
 
-Hi there! I'm **Kiran Rakh**, a passionate Cloud & DevOps Engineer from Pune, India 🇮🇳.
+👋 I'm **Kiran Rakh**, a Cloud & DevOps Engineer from Pune, India with over 1 year of hands-on experience in implementing, automating, and maintaining scalable infrastructure.
 
-- 🎓 Final year B.E. (E&TC) at JSPM’s Imperial College of Engineering and Research  
-- 💼 <img src="https://img.icons8.com/color/20/000000/company.png"/> **DevOps Intern @ [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)** — Working on cloud-native infrastructure automation, CI/CD integration, and observability  
-- 🌐 <img src="https://img.icons8.com/color/20/000000/linux.png"/> **DevOps Trainee @ [LinuxWorld Informatics](https://www.linkedin.com/in/vimaldaga)** — Learning advanced container orchestration and GitOps  
-- ⚡ Hands-on with real-world cloud projects, automation, and pipeline delivery
+🔧 **My Background**
+- 🎯 Skilled in DevOps tools and cloud-native technologies through intensive project work, internships, and self-driven learning.
+- 💼 Currently contributing as:
+  - **DevOps Intern @ [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)** – Designing and managing CI/CD pipelines, automating cloud infrastructure, and enhancing observability.
+  - **DevOps Trainee @ [LinuxWorld Informatics](https://www.linkedin.com/in/vimaldaga)** – Gaining hands-on expertise in Kubernetes, Docker, GitOps, and real-world DevOps practices.
+
+🌱 **What Drives Me:**
+I’m driven by a love for automation, scalability, and innovation. I enjoy turning complex deployment challenges into seamless delivery pipelines, and I’m always curious to explore new tools and technologies in the DevOps space.
+
+📌 **Current Goals:**
+- Master advanced GitOps workflows
+- Contribute to open-source DevOps projects
+- Land a full-time DevOps Engineer role and help companies scale faster
 
 ---
 
@@ -63,9 +72,9 @@ Hi there! I'm **Kiran Rakh**, a passionate Cloud & DevOps Engineer from Pune, In
 
 ## 👨‍💼 Mentors & Inspirations
 
-- 👨‍💼 [Vimal Daga](https://www.linkedin.com/in/vimaldaga) — LinuxWorld  
-- 💼 [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)  
-- 🎥 YouTube Gurus: Abhishek Veeramalla, Train With Shubham, Gourav Sharma, M Prashant  
+- 👨‍💼 [Vimal Daga](https://www.linkedin.com/in/vimaldaga) — LinuxWorld
+- 💼 [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)
+- 🎥 YouTube Gurus: Abhishek Veeramalla, Train With Shubham, Gourav Sharma, M Prashant
 
 ---
 
