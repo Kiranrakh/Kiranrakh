@@ -1,64 +1,85 @@
-<h1 align="center"> Hey Everyone 👋, I'm Kiran Rakh </h1>
+<h1 align="center">👋 Hey Everyone, I'm <span style="color:#0ea5e9;">Kiran Rakh</span></h1>
 
 <p align="center">
-🚀 <b>Cloud & DevOps Engineer | Automating Cloud Solutions | Kubernetes | CI/CD | Docker | Jenkins</b> 🌍
+🚀 <b>Cloud & DevOps Engineer | Automating Infrastructure | CI/CD Pipelines | Kubernetes | Docker | Jenkins</b>  
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/kiran-rakh-b644b6248">
-    <img src="https://img.shields.io/badge/LinkedIn-KiranRakh-blue?style=for-the-badge&logo=linkedin" />
- </a>
- <a href="mailto:kiranrakh155@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
- </a>
- <a href="https://github.com/KiranRakh">
+  <a href="https://kiranrakh.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit Now-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kiran-rakh-b644b6248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kiran Rakh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:kiranrakh155@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/KiranRakh">
     <img src="https://img.shields.io/badge/GitHub-KiranRakh-black?style=for-the-badge&logo=github" />
- </a>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=DevOps+Intern+at+LinuxWorld;Cloud+Native+Learner;Open+Source+Explorer;CI%2FCD+Pipeline+Builder"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=DevOps+Intern+at+FusionPact;LinuxWorld+Learner;Cloud+Native+Explorer;CI%2FCD+Pipeline+Builder;Infrastructure+as+Code+Enthusiast" />
 </p>
-
-
-## 🚀 About Me:
-🎯 Passionate about **Cloud Computing, DevOps, and Automation**. I enjoy working with cloud technologies, container orchestration, and CI/CD pipelines to streamline deployments and enhance infrastructure efficiency.  
-
-🔹 **Location:** Pune, India  
-🔹 **Current Role:** DevOps Engineer (Seeking full-time opportunities)  
-🔹 **Education:** B.E. in Electronics & Telecommunication, JSPM’s Imperial College of Engineering and Research (2020-2024)  
-🔹 **Experience:** 6-month AWS DevOps Internship  
 
 ---
 
-## 🛠️ Technologies & Tools:
+## 🚀 About Me
 
-### 🚀 Cloud & DevOps:
+🎯 Passionate about **Cloud Computing**, **DevOps**, and **Infrastructure Automation**. I enjoy building scalable pipelines, deploying containerized apps, and solving real-world engineering challenges using modern DevOps tools.
+
+- 📍 **Location:** Pune, India  
+- 💼 **Current Roles:**
+  - **DevOps Intern @ [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)** – Working on CI/CD pipelines, automation, and DevOps practices in a corporate environment.
+  - **DevOps Trainee @ [LinuxWorld Informatics Pvt Ltd](https://www.linkedin.com/in/vimaldaga)** – Focused on deep hands-on labs with Kubernetes, Jenkins, Docker, and GitOps.
+
+- 🎓 **Education:** B.E. in E&TC, JSPM’s Imperial College of Engineering and Research  
+- 🛠 **Experience:** 6-Month AWS DevOps Internship @ Greateway | Now expanding practical knowledge via real-time projects.
+
+---
+
+## 🧰 Tech Stack
+
+### 🌩️ Cloud & Infrastructure:
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-IAC-purple?style=for-the-badge&logo=terraform" />
-  <img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform" />
   <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible" />
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins" />
+</p>
+
+### 💻 Dev Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Shell-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Git-VersionControl-critical?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
 ---
 
-## 🌟 References & Mentors:
+## 🌟 Mentors & Inspirations
 
-I have learned and gained knowledge from amazing mentors and resources. Here are some of the people and platforms that have inspired me:
+I've grown by learning from these great mentors and resources:
 
-- **Vimal Daga** - [LinkedIn](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) - LinuxWorld Informatics Pvt Ltd  
-- **Abhishek Veeramalla** - [YouTube Channel](https://www.youtube.com/@AbhishekVeeramalla)  
-- **Train With Shubham** - [YouTube Channel](https://www.youtube.com/@TrainWithShubham)  
-- **Gourav Sharma** - [YouTube Channel](https://www.youtube.com/@GouravSharma)  
-- **M Prashant** - [YouTube Channel](https://www.youtube.com/@MPrashant)  
+- 👨‍🏫 **Vimal Daga** — [LinuxWorld Informatics](https://www.linkedin.com/in/vimaldaga)
+- 👨‍💻 **FusionPact Team** — [FusionPact LinkedIn](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)
+- 🎥 **Abhishek Veeramalla** — [YouTube](https://www.youtube.com/@AbhishekVeeramalla)
+- 🎥 **Train With Shubham** — [YouTube](https://www.youtube.com/@TrainWithShubham)
+- 🎥 **Gourav Sharma** — [YouTube](https://www.youtube.com/@GouravSharma)
+- 🎥 **M Prashant** — [YouTube](https://www.youtube.com/@MPrashant)
 
 ---
 
-## 📫 Let's Connect:
+## 🌐 Connect with Me
+
 <p align="center">
+  <a href="https://kiranrakh.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-kiranrakh.netlify.app-0ea5e9?style=for-the-badge&logo=netlify" />
+  </a>
   <a href="https://www.linkedin.com/in/kiran-rakh-b644b6248">
     <img src="https://img.shields.io/badge/LinkedIn-KiranRakh-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -66,13 +87,13 @@ I have learned and gained knowledge from amazing mentors and resources. Here are
     <img src="https://img.shields.io/badge/GitHub-KiranRakh-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:kiranrakh155@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-kiranrakh155@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🔥 Fun Fact:
-💡 **DevOps is not a job, it's a culture!** 🚀  
+## ✨ Fun Fact
 
-**Let’s build, automate, and innovate together!** 🚀
+💡 **DevOps isn't just a role — it's a mindset!**  
+Let’s **automate, scale, and transform** the future of cloud together. 🚀  
