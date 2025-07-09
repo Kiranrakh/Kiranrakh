@@ -1,90 +1,86 @@
-<h1 align="center">👋 Hey Everyone, I'm <span style="color:#0ea5e9;">Kiran Rakh</span></h1>
+<h1 align="center">🚀 Hey Everyone, I'm <span style="color:#38bdf8;">Kiran Rakh</span> — DevOps Engineer</h1>
 
 <p align="center">
-🚀 <b>Cloud & DevOps Engineer | Automating Infrastructure | CI/CD Pipelines | Kubernetes | Docker | Jenkins</b>  
+<strong>Cloud | DevOps | Kubernetes | CI/CD | Docker | Terraform | Jenkins | AWS</strong>
 </p>
 
 <p align="center">
   <a href="https://kiranrakh.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit Now-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-kiranrakh.netlify.app-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kiran-rakh-b644b6248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kiran Rakh-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kiran_Rakh-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kiranrakh155@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/KiranRakh">
-    <img src="https://img.shields.io/badge/GitHub-KiranRakh-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Kiran_Rakh-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=DevOps+Intern+at+FusionPact;LinuxWorld+Learner;Cloud+Native+Explorer;CI%2FCD+Pipeline+Builder;Infrastructure+as+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=600&lines=DevOps+Intern+at+FusionPact;Cloud+Native+Practitioner;CI%2FCD+Pipeline+Architect;LinuxWorld+Tech+Explorer;Automation+is+the+Future" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 Who Am I?
 
-🎯 Passionate about **Cloud Computing**, **DevOps**, and **Infrastructure Automation**. I enjoy building scalable pipelines, deploying containerized apps, and solving real-world engineering challenges using modern DevOps tools.
+🎓 I’m a Cloud & DevOps Engineer currently pursuing my B.E. in E&TC from JSPM’s Imperial College of Engineering and Research (2020–2024).  
+🧠 I specialize in designing **cloud-native**, **containerized**, and **automated** systems for real-world deployments.
 
-- 📍 **Location:** Pune, India  
-- 💼 **Current Roles:**
-  - **DevOps Intern @ [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)** – Working on CI/CD pipelines, automation, and DevOps practices in a corporate environment.
-  - **DevOps Trainee @ [LinuxWorld Informatics Pvt Ltd](https://www.linkedin.com/in/vimaldaga)** – Focused on deep hands-on labs with Kubernetes, Jenkins, Docker, and GitOps.
+🛠️ My DevOps journey has been shaped through hands-on experience in:
 
-- 🎓 **Education:** B.E. in E&TC, JSPM’s Imperial College of Engineering and Research  
-- 🛠 **Experience:** 6-Month AWS DevOps Internship @ Greateway | Now expanding practical knowledge via real-time projects.
+- Infrastructure as Code (**Terraform**, **Ansible**)
+- CI/CD pipelines (**Jenkins**, **GitHub Actions**)
+- Orchestration using **Kubernetes**
+- AWS Cloud Services and shell scripting
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Current Roles
 
-### 🌩️ Cloud & Infrastructure:
+### 🏢 DevOps Intern — [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)
+🔧 Working on real-world DevOps pipelines, cloud infrastructure, CI/CD automation, and delivery optimization.
+
+### 📚 DevOps Trainee — [LinuxWorld Informatics Pvt Ltd](https://www.linkedin.com/in/vimaldaga)
+🧪 Learning deep Kubernetes, Jenkins, Docker, GitOps, Helm, and ArgoCD through hands-on industry-grade projects.
+
+---
+
+## ⚙️ My DevOps Toolkit
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform" />
-  <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible" />
-  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins" />
-</p>
-
-### 💻 Dev Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-Shell-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Git-VersionControl-critical?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-ffb600?style=for-the-badge&logo=jenkins&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-critical?style=for-the-badge&logo=git" />
 </p>
 
 ---
 
-## 🌟 Mentors & Inspirations
+## 👥 Mentors & Inspirations
 
-I've grown by learning from these great mentors and resources:
+Grateful to learn from the best:
 
-- 👨‍🏫 **Vimal Daga** — [LinuxWorld Informatics](https://www.linkedin.com/in/vimaldaga)
-- 👨‍💻 **FusionPact Team** — [FusionPact LinkedIn](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)
-- 🎥 **Abhishek Veeramalla** — [YouTube](https://www.youtube.com/@AbhishekVeeramalla)
-- 🎥 **Train With Shubham** — [YouTube](https://www.youtube.com/@TrainWithShubham)
-- 🎥 **Gourav Sharma** — [YouTube](https://www.youtube.com/@GouravSharma)
-- 🎥 **M Prashant** — [YouTube](https://www.youtube.com/@MPrashant)
+- 🧑‍🏫 **Vimal Daga Sir** — [LinuxWorld Informatics](https://www.linkedin.com/in/vimaldaga)  
+- 🏢 **FusionPact Team** — [FusionPact LinkedIn](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)  
+- 🎓 **Abhishek Veeramalla**, **Train With Shubham**, **Gourav Sharma**, **M Prashant**
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://kiranrakh.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kiranrakh.netlify.app-0ea5e9?style=for-the-badge&logo=netlify" />
+  <a href="https://kiranrakh.netlify.app">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-kiranrakh.netlify.app-0ea5e9?style=for-the-badge&logo=netlify" />
   </a>
-  <a href="https://www.linkedin.com/in/kiran-rakh-b644b6248">
-    <img src="https://img.shields.io/badge/LinkedIn-KiranRakh-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/KiranRakh">
-    <img src="https://img.shields.io/badge/GitHub-KiranRakh-black?style=for-the-badge&logo=github" />
+  <a href="https://linkedin.com/in/kiran-rakh-b644b6248">
+    <img src="https://img.shields.io/badge/LinkedIn-Kiran_Rakh-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kiranrakh155@gmail.com">
     <img src="https://img.shields.io/badge/Email-kiranrakh155@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -93,7 +89,7 @@ I've grown by learning from these great mentors and resources:
 
 ---
 
-## ✨ Fun Fact
+## ⚡ Fun Fact
 
-💡 **DevOps isn't just a role — it's a mindset!**  
-Let’s **automate, scale, and transform** the future of cloud together. 🚀  
+> 💡 **DevOps isn’t just automation. It’s mindset, collaboration, and continuous innovation.**  
+> Let’s build, automate, and scale together! 🌍🚀
