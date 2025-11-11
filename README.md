@@ -34,7 +34,7 @@
 🔧 **My Background**
 - 🎯 Skilled in DevOps tools and cloud-native technologies through intensive project work, internships, and self-driven learning.
 - 💼 Currently contributing as:
-  - **DevOps Intern @ [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)** – Designing and managing CI/CD pipelines, automating cloud infrastructure, and enhancing observability.
+
   - **DevOps Trainee @ [LinuxWorld Informatics](https://www.linkedin.com/in/vimaldaga)** – Gaining hands-on expertise in Kubernetes, Docker, GitOps, and real-world DevOps practices.
 
 🌱 **What Drives Me:**
