@@ -79,9 +79,7 @@ I’m driven by a love for automation, scalability, and innovation. I enjoy turn
 ## 📢 Let’s Connect
 
 <p align="center">
-  <a href="https://kiranrakh.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-kiranrakh.netlify.app-0ea5e9?style=for-the-badge&logo=netlify" />
-  </a>
+
   <a href="https://linkedin.com/in/kiran-rakh-b644b6248">
     <img src="https://img.shields.io/badge/LinkedIn-Kiran_Rakh-blue?style=for-the-badge&logo=linkedin" />
   </a>
