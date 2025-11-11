@@ -6,9 +6,7 @@
 
 <h2>Cloud & DevOps Engineer | CI/CD | Kubernetes | Docker | AWS</h2>
 
-<a href="https://kiranrakh.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-kiranrakh.netlify.app-0ea5e9?style=for-the-badge&logo=netlify" />
-</a>
+
 <a href="https://www.linkedin.com/in/kiran-rakh-b644b6248">
   <img src="https://img.shields.io/badge/LinkedIn-Kiran_Rakh-blue?style=for-the-badge&logo=linkedin" />
 </a>
