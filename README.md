@@ -68,11 +68,6 @@ I’m driven by a love for automation, scalability, and innovation. I enjoy turn
 
 ---
 
-## 👨‍💼 Mentors & Inspirations
-
-- 👨‍💼 [Vimal Daga](https://www.linkedin.com/in/vimaldaga) — LinuxWorld
-- 💼 [FusionPact](https://www.linkedin.com/company/fusionpact/posts/?feedView=all)
-- 🎥 YouTube Gurus: Abhishek Veeramalla, Train With Shubham, Gourav Sharma, M Prashant
 
 ---
 
